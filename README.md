@@ -53,4 +53,4 @@ README.md          # Project documentation
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by N. Iliyaz Nidimamidi
+Made for love by.. Iliyaz Nidimamidi
